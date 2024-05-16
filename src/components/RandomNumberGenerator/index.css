@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.BgImg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.WhitePageEl {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.headingEl1 {
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b69ff;
+}
+
+.buttonEl2 {
+  background-color: #0b69ff;
+  color: white;
+  border-width: 0px;
+  height: 30px;
+  border-radius: 6px;
+}
